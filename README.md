@@ -82,3 +82,7 @@ Run the local regression suite after setup:
 ```bash
 .venv/bin/python -B -m unittest -v
 ```
+
+## License
+
+Cli Sync is available under the [MIT License](LICENSE). Include the copyright and license notices when distributing copies or substantial portions of the software.

@@ -82,3 +82,7 @@ bash sync.sh --task docs-backup \
 ```bash
 .venv/bin/python -B -m unittest -v
 ```
+
+## 许可证
+
+Cli Sync 采用 [MIT 许可证](LICENSE)。分发软件副本或其实质部分时，必须保留版权声明和许可证文本。
